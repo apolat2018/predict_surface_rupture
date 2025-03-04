@@ -1,1 +1,1 @@
-# predict_surface_rupture
+# YOLOv8 algoritması ile deprem Yüzey Kırığı Tahmini
